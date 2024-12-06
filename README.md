@@ -1,4 +1,4 @@
-# SACH (Sourcing accurate citations without hallucinations)
+## SACH (Sourcing accurate citations without hallucinations)
 
 Citations given by large language models for cases on which lawyers work on are often inaccurate and hallucinated. This project proposes a binary classifier based on case information and citation pair to decipher what citations are accurate for a given case. The trained dataset looks like the image below. For detailed understanding refer to the report in this repository.
 
