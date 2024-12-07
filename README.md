@@ -4,3 +4,5 @@ Citations given by large language models for cases on which lawyers work on are 
 
 
 ![image](https://github.com/user-attachments/assets/79bfe69b-a937-4578-816a-07d87094ce87)
+
+Video Link - https://www.canva.com/design/DAGYNjuO8nA/yx3yKaLDD0xvUnmIIHBbqg/view?utm_content=DAGYNjuO8nA&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
